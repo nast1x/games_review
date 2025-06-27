@@ -12,8 +12,14 @@
 <img src="pic/games.jpg" width="200">
 Рисунок 5 - Игры 
 <img src="pic/add_new_review.jpg" width="200">
-Рисунок 6 - Добавление нового обзора 
+Рисунок 6 - Добавление нового обзора (проверка на добавление) 
 <img src="pic/check_auth_1.jpg" width="200">
 Рисунок 7 - Проверка авторизации 1
 <img src="pic/check_auth_2.jpg" width="200">
 Рисунок 8 - Проверка авторизации 2
+<img src="pic/add_review.jpg" width="200">
+Рисунок 9 - Форма добавления нового обзора 
+<img src="pic/add_game.jpg" width="200">
+Рисунок 10 - Форма добавления новой игры
+<img src="pic/change_profile.jpg" width="200">
+Рисунок 11 - Изменение профиля пользователя
