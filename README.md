@@ -3,3 +3,17 @@
 
 <img src="pic/auth.jpg" width="200">
 Рисунок 1 - Авторизация пользователя
+<img src="pic/register.jpg" width="200">
+Рисунок 2 - Регистрация пользователя
+<img src="pic/profile.jpg" width="200">
+Рисунок 3 - Профиль пользователя
+<img src="pic/review.jpg" width="200">
+Рисунок 4 - Отзывы 
+<img src="pic/games.jpg" width="200">
+Рисунок 5 - Игры 
+<img src="pic/add_new_review.jpg" width="200">
+Рисунок 6 - Добавление нового обзора 
+<img src="pic/check_auth_1.jpg" width="200">
+Рисунок 7 - Проверка авторизации 1
+<img src="pic/check_auth_2.jpg" width="200">
+Рисунок 8 - Проверка авторизации 2
